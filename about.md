@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+유성고등학교 졸업
+홍익대학교 전자전기 공학부 졸업
+홍익대학교 컴퓨터공학과 석사과정 중
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+관심분야 : 딥러닝, 스파이킹뉴럴넷, 보라, 요리, 크로스핏, 독서, 게임 등
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jason643@naver.com](mailto:jason643@naver.com)
